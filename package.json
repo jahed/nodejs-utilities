@@ -1,0 +1,13 @@
+{
+  "name": "@jahed/nodejs-utilities",
+  "version": "0.1.0",
+  "description": "Utilities for NodeJS Development",
+  "main": "index.js",
+  "repository": "https://github.com/jahed/nodejs-utilities",
+  "author": "Jahed Ahmed",
+  "license": "MIT",
+  "files": [
+    "src",
+    "bin"
+  ]
+}
