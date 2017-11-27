@@ -9,5 +9,8 @@
   "files": [
     "src",
     "bin"
-  ]
+  ],
+  "bin": {
+    "enforce-yarn": "./bin/enforce-yarn.js"
+  }
 }
