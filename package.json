@@ -1,6 +1,6 @@
 {
   "name": "@jahed/nodejs-utilities",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utilities for NodeJS Development",
   "main": "index.js",
   "repository": "https://github.com/jahed/nodejs-utilities",
